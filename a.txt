@@ -1,8 +1,10 @@
 Essa linha foi modedificada!
 Tu jura? Sera que valeu a cadeira do
 primeiro periodo?
+Aurorita
 Essa tambem ira mudar
-Maria Jose
+Maria
+Manoel Antonio
 Essa por sua vez talvez seja tambem
 Crismayanne
 Angelo 
@@ -14,4 +16,7 @@ teste
 Darwin
 kewin
 Kewin Qualquer coisa
+Darwin
+teste
+Kewin
 dasda 
